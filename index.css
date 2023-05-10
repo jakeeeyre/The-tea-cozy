@@ -39,7 +39,7 @@ ul {
     align-items: center;
     justify-content: space-around;
     padding-right: 40px;
-    flex-wrap: no-wrap;
+    flex-wrap: wrap;
     gap: 20px;
 }
 
