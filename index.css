@@ -30,6 +30,7 @@ body {
 li {
     text-decoration: underline;
     list-style: none;
+    font-size: 16px;
 }
 
 ul {
